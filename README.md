@@ -14,7 +14,7 @@ ChatGPT worked surprisingly well!
 
 ![Event_Listener](https://user-images.githubusercontent.com/46334898/214162374-40e57010-a1ae-4ea8-9398-4891a1c5dc64.png)
 
-It's not perfect and there are a few minor quirks, but overall a fun experience experimenting with ChatGPT. This was an expansion on my [first attempt at using ChatGPT to directly create 3D models](https://youtu.be/nVIMVBmAi_8), which worked pretty well but had some limitationos. 
+It's not perfect and there are a few minor quirks, but overall a fun experience experimenting with ChatGPT. This was an expansion on my [first attempt at using ChatGPT to directly create 3D models](https://youtu.be/nVIMVBmAi_8), which worked pretty well but had some limitations. 
 
 ChatGPT also picked the title of the game and the tagline, and [Dall-E 2](https://openai.com/dall-e-2/) created the logo / favicon. 
 
